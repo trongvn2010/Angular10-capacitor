@@ -1,4 +1,5 @@
 https://capacitorjs.com/docs/basics/building-your-app
+
 npm run build
 npx cap copy
 
