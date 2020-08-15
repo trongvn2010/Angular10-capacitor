@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular10-capacitor"
+    }
+  },
+  "defaultProject": "angular10-capacitor",
+  "cli": {
+    "analytics": "67f82582-5846-479a-bfd2-a30b889900ef"
+  }
 }
